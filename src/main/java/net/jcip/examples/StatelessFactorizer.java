@@ -1,6 +1,6 @@
 package net.jcip.examples;
 
-import net.jcip.annotations.*;
+import net.jcip.annotations.ThreadSafe;
 
 import javax.servlet.*;
 import java.math.BigInteger;

@@ -1,6 +1,7 @@
 package net.jcip.examples;
 
-import net.jcip.annotations.*;
+import net.jcip.annotations.Immutable;
+import net.jcip.annotations.ThreadSafe;
 
 import java.util.concurrent.atomic.AtomicReference;
 

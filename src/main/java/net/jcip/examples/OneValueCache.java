@@ -1,6 +1,6 @@
 package net.jcip.examples;
 
-import net.jcip.annotations.*;
+import net.jcip.annotations.Immutable;
 
 import java.math.BigInteger;
 import java.util.Arrays;

@@ -1,6 +1,6 @@
 package net.jcip.examples;
 
-import net.jcip.annotations.*;
+import net.jcip.annotations.GuardedBy;
 
 import java.util.HashSet;
 import java.util.Set;
