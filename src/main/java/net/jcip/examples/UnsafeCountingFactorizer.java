@@ -2,7 +2,10 @@ package net.jcip.examples;
 
 import net.jcip.annotations.NotThreadSafe;
 
-import javax.servlet.*;
+import javax.servlet.GenericServlet;
+import javax.servlet.Servlet;
+import javax.servlet.ServletRequest;
+import javax.servlet.ServletResponse;
 import java.math.BigInteger;
 
 /**
